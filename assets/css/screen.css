@@ -334,14 +334,7 @@ pre code, tt {
     background: transparent;
     border: none;
     padding: 0;
-    overflow: scroll;
-}
-
-code[class*="language-"], code, pre[class*="language-"] {
     white-space: pre;
-}
-
-code[class*="language-"], code {
     display: inline-block;
 }
 
