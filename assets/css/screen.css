@@ -334,6 +334,7 @@ pre code, tt {
     background: transparent;
     border: none;
     padding: 0;
+    overflow: scroll;
 }
 
 kbd {
