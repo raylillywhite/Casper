@@ -337,6 +337,14 @@ pre code, tt {
     overflow: scroll;
 }
 
+code[class*="language-"], code, pre[class*="language-"] {
+    white-space: pre;
+}
+
+code[class*="language-"], code {
+    display: inline-block;
+}
+
 kbd {
     display: inline-block;
     margin-bottom: 0.4em;
